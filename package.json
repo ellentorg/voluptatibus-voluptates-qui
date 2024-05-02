@@ -1,18 +1,40 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@ellentorg/voluptatibus-voluptates-qui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "ellentea",
   "license": "MIT",
+  "dependencies": {
+    "@ellentorg/congenial-giggle": "^1.0.9",
+    "@ellentorg/explicabo-non-soluta": "^1.0.0",
+    "@ellentorg/friendly-succotash": "^1.0.9",
+    "@ellentorg/jubilant-tribble": "^1.1.8",
+    "@ellentorg/literate": "^1.1.8",
+    "@ellentorg/stunning-funicular": "^2.1.7"
+  },
+  "keywords": [
+    "autoprefixer",
+    "a11y",
+    "Array.prototype.findLast",
+    "Streams",
+    "shared",
+    "guid",
+    "Symbol.toStringTag",
+    "restful",
+    "es-shims",
+    "util.inspect",
+    "curl",
+    "forms",
+    "mimetypes"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/ellentorg/voluptatibus-voluptates-qui.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/ellentorg/voluptatibus-voluptates-qui/#readme",
+  "bugs": {
+    "url": "https://github.com/ellentorg/voluptatibus-voluptates-qui/issues"
   }
 }
